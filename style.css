@@ -5,6 +5,10 @@ p{
     padding-top : 100px;
     text-align : center;
 }
+.heading{
+    font-size : 30;
+    color : blue;
+}
 .link{
     padding-bottom : 50px;
 }
