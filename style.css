@@ -8,6 +8,10 @@ p{
 .link{
     padding-bottom : 50px;
 }
+.heading{
+    font-size : 30;
+    color : blue;
+}
 a{
     font-size : 40;
 }
